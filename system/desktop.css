@@ -71,8 +71,8 @@ body {
 }
 
 .ui-launcher-entry img {
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 4opx;
     -webkit-transition: all 100ms ease-out;
     margin-left: auto;
     margin-right: auto;
